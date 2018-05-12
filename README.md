@@ -2,9 +2,9 @@
 
  This code should be able to create a 'Seq' object that accepts a DNA sequence (a string).
  The code allows the counting of kmers of a defined size and of size 'k'.
- Pandas is used to find all possible k and the associated number of observed and expected kmers
- Seaborne is used to make a graph of the proportion of ech kmr observed
- Linguistic complexity is the observed kmers/possible kmers
+ Pandas is used to find all possible k and the associated number of observed and expected kmers.
+ Seaborne is used to make a graph of the proportion of ech kmr observed.
+ Linguistic complexity is the observed kmers/possible kmers.
  A script to thoroughly test each function could be used. I could not do this part, 
  but I would have used Sublime to test different numbers ( a decimal, a negative number, maybe a 0 and 1000) to make
  sure this code worked for eveything. If it were applied to another file it should be able to work wihtout a problem.
